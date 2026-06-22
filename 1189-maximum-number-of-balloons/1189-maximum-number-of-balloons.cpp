@@ -33,8 +33,6 @@ public:
             }
         }
 
-        int min_ban = min({aa, bb, nn});
-        int min_lo = min(le,oe);
 
         return min({bb, aa, nn, le / 2, oe / 2});
 
