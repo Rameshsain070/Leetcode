@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1518-water-bottles](https://github.com/Rameshsain070/Leetcode/tree/master/1518-water-bottles) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Rameshsain070/Leetcode/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rameshsain070/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Rameshsain070/Leetcode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rameshsain070/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Simulation
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/Rameshsain070/Leetcode/tree/master/1518-water-bottles) |
 <!---LeetCode Topics End-->
