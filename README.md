@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rameshsain070/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rameshsain070/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Rameshsain070/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3238-find-the-number-of-winning-players](https://github.com/Rameshsain070/Leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rameshsain070/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Rameshsain070/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rameshsain070/Leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Rameshsain070/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rameshsain070/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3238-find-the-number-of-winning-players](https://github.com/Rameshsain070/Leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rameshsain070/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Rameshsain070/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rameshsain070/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rameshsain070/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rameshsain070/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Rameshsain070/Leetcode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3238-find-the-number-of-winning-players](https://github.com/Rameshsain070/Leetcode/tree/master/3238-find-the-number-of-winning-players) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Rameshsain070/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rameshsain070/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rameshsain070/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
