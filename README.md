@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Rameshsain070/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Rameshsain070/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Rameshsain070/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/Rameshsain070/Leetcode/tree/master/1189-maximum-number-of-balloons) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/Rameshsain070/Leetcode/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Rameshsain070/Leetcode/tree/master/0316-remove-duplicate-letters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Rameshsain070/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rameshsain070/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Rameshsain070/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rameshsain070/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/Rameshsain070/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Rameshsain070/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rameshsain070/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
