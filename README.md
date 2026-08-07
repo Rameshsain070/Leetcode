@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Rameshsain070/Leetcode/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/Rameshsain070/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rameshsain070/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Rameshsain070/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Rameshsain070/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/Rameshsain070/Leetcode/tree/master/0060-permutation-sequence) |
 | [0089-gray-code](https://github.com/Rameshsain070/Leetcode/tree/master/0089-gray-code) |
+| [0149-max-points-on-a-line](https://github.com/Rameshsain070/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0282-expression-add-operators](https://github.com/Rameshsain070/Leetcode/tree/master/0282-expression-add-operators) |
 | [0486-predict-the-winner](https://github.com/Rameshsain070/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rameshsain070/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Rameshsain070/Leetcode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0137-single-number-ii) |
 | [0140-word-break-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/Rameshsain070/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0179-largest-number](https://github.com/Rameshsain070/Leetcode/tree/master/0179-largest-number) |
 | [0456-132-pattern](https://github.com/Rameshsain070/Leetcode/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/Rameshsain070/Leetcode/tree/master/0486-predict-the-winner) |
@@ -467,4 +470,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Rameshsain070/Leetcode/tree/master/0146-lru-cache) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Rameshsain070/Leetcode/tree/master/0149-max-points-on-a-line) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Rameshsain070/Leetcode/tree/master/0149-max-points-on-a-line) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/Rameshsain070/Leetcode/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
