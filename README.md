@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Rameshsain070/Leetcode/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Rameshsain070/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Rameshsain070/Leetcode/tree/master/0133-clone-graph) |
+| [0140-word-break-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0140-word-break-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rameshsain070/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Rameshsain070/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Rameshsain070/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Rameshsain070/Leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Rameshsain070/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/Rameshsain070/Leetcode/tree/master/0179-largest-number) |
 | [0282-expression-add-operators](https://github.com/Rameshsain070/Leetcode/tree/master/0282-expression-add-operators) |
 | [0316-remove-duplicate-letters](https://github.com/Rameshsain070/Leetcode/tree/master/0316-remove-duplicate-letters) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Rameshsain070/Leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rameshsain070/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Rameshsain070/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0140-word-break-ii) |
 | [0486-predict-the-winner](https://github.com/Rameshsain070/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rameshsain070/Leetcode/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Rameshsain070/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Rameshsain070/Leetcode/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Rameshsain070/Leetcode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0137-single-number-ii) |
+| [0140-word-break-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/Rameshsain070/Leetcode/tree/master/0179-largest-number) |
 | [0456-132-pattern](https://github.com/Rameshsain070/Leetcode/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/Rameshsain070/Leetcode/tree/master/0486-predict-the-winner) |
@@ -396,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/Rameshsain070/Leetcode/tree/master/0089-gray-code) |
 | [0126-word-ladder-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0131-palindrome-partitioning](https://github.com/Rameshsain070/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0140-word-break-ii) |
 | [0282-expression-add-operators](https://github.com/Rameshsain070/Leetcode/tree/master/0282-expression-add-operators) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Rameshsain070/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Range Minimum/Maximum Query
@@ -422,4 +427,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/Rameshsain070/Leetcode/tree/master/0456-132-pattern) |
+## Trie
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0140-word-break-ii) |
+## Memoization
+|  |
+| ------- |
+| [0140-word-break-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0140-word-break-ii) |
 <!---LeetCode Topics End-->
