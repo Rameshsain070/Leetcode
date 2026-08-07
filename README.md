@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Rameshsain070/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/Rameshsain070/Leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Rameshsain070/Leetcode/tree/master/0133-clone-graph) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Rameshsain070/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Rameshsain070/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rameshsain070/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rameshsain070/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rameshsain070/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Rameshsain070/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Rameshsain070/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Rameshsain070/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rameshsain070/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Rameshsain070/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Rameshsain070/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/Rameshsain070/Leetcode/tree/master/0543-diameter-of-binary-tree) |
 ## Stack
 |  |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Rameshsain070/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rameshsain070/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Rameshsain070/Leetcode/tree/master/0143-reorder-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Rameshsain070/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/Rameshsain070/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/Rameshsain070/Leetcode/tree/master/0456-132-pattern) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rameshsain070/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
