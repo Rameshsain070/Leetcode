@@ -393,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Rameshsain070/Leetcode/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Rameshsain070/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rameshsain070/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/Rameshsain070/Leetcode/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/Rameshsain070/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/Rameshsain070/Leetcode/tree/master/0456-132-pattern) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rameshsain070/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Rameshsain070/Leetcode/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/Rameshsain070/Leetcode/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
