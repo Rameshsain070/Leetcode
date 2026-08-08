@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Rameshsain070/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rameshsain070/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Rameshsain070/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0172-factorial-trailing-zeroes](https://github.com/Rameshsain070/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0282-expression-add-operators](https://github.com/Rameshsain070/Leetcode/tree/master/0282-expression-add-operators) |
 | [0486-predict-the-winner](https://github.com/Rameshsain070/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rameshsain070/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
