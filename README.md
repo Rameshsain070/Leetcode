@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Rameshsain070/Leetcode/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Rameshsain070/Leetcode/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Rameshsain070/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0187-repeated-dna-sequences](https://github.com/Rameshsain070/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rameshsain070/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Rameshsain070/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Rameshsain070/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Rameshsain070/Leetcode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Rameshsain070/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0179-largest-number](https://github.com/Rameshsain070/Leetcode/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/Rameshsain070/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0282-expression-add-operators](https://github.com/Rameshsain070/Leetcode/tree/master/0282-expression-add-operators) |
 | [0316-remove-duplicate-letters](https://github.com/Rameshsain070/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rameshsain070/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/Rameshsain070/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rameshsain070/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Rameshsain070/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rameshsain070/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0089-gray-code](https://github.com/Rameshsain070/Leetcode/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0137-single-number-ii) |
+| [0187-repeated-dna-sequences](https://github.com/Rameshsain070/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Rameshsain070/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Rameshsain070/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Rameshsain070/Leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -529,4 +533,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Rameshsain070/Leetcode/tree/master/1140-stone-game-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Rameshsain070/Leetcode/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Rameshsain070/Leetcode/tree/master/0187-repeated-dna-sequences) |
+## Z Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Rameshsain070/Leetcode/tree/master/0187-repeated-dna-sequences) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/Rameshsain070/Leetcode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
