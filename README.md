@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0213-house-robber-ii) |
 | [0218-the-skyline-problem](https://github.com/Rameshsain070/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/Rameshsain070/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0456-132-pattern](https://github.com/Rameshsain070/Leetcode/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/Rameshsain070/Leetcode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Rameshsain070/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/Rameshsain070/Leetcode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Rameshsain070/Leetcode/tree/master/0179-largest-number) |
 | [0218-the-skyline-problem](https://github.com/Rameshsain070/Leetcode/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/Rameshsain070/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rameshsain070/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Rameshsain070/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Rameshsain070/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Rameshsain070/Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rameshsain070/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0220-contains-duplicate-iii](https://github.com/Rameshsain070/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rameshsain070/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/Rameshsain070/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rameshsain070/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Rameshsain070/Leetcode/tree/master/0218-the-skyline-problem) |
+| [0220-contains-duplicate-iii](https://github.com/Rameshsain070/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0456-132-pattern](https://github.com/Rameshsain070/Leetcode/tree/master/0456-132-pattern) |
 ## Trie
 |  |
@@ -567,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Rameshsain070/Leetcode/tree/master/0164-maximum-gap) |
+| [0220-contains-duplicate-iii](https://github.com/Rameshsain070/Leetcode/tree/master/0220-contains-duplicate-iii) |
 ## Radix Sort
 |  |
 | ------- |
