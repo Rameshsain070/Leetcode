@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Rameshsain070/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0213-house-robber-ii) |
+| [0218-the-skyline-problem](https://github.com/Rameshsain070/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0456-132-pattern](https://github.com/Rameshsain070/Leetcode/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/Rameshsain070/Leetcode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Rameshsain070/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -204,11 +205,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rameshsain070/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Rameshsain070/Leetcode/tree/master/0148-sort-list) |
+| [0218-the-skyline-problem](https://github.com/Rameshsain070/Leetcode/tree/master/0218-the-skyline-problem) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rameshsain070/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Rameshsain070/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Rameshsain070/Leetcode/tree/master/0218-the-skyline-problem) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Rameshsain070/Leetcode/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rameshsain070/Leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Rameshsain070/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Rameshsain070/Leetcode/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Rameshsain070/Leetcode/tree/master/0164-maximum-gap) |
 | [0179-largest-number](https://github.com/Rameshsain070/Leetcode/tree/master/0179-largest-number) |
+| [0218-the-skyline-problem](https://github.com/Rameshsain070/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rameshsain070/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Rameshsain070/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Rameshsain070/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Rameshsain070/Leetcode/tree/master/0218-the-skyline-problem) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rameshsain070/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rameshsain070/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Rameshsain070/Leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -516,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Rameshsain070/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0456-132-pattern](https://github.com/Rameshsain070/Leetcode/tree/master/0456-132-pattern) |
 ## Trie
 |  |
@@ -619,4 +625,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Rameshsain070/Leetcode/tree/master/0214-shortest-palindrome) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Rameshsain070/Leetcode/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Rameshsain070/Leetcode/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
