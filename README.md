@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Rameshsain070/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0212-word-search-ii) |
 | [0214-shortest-palindrome](https://github.com/Rameshsain070/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0224-basic-calculator](https://github.com/Rameshsain070/Leetcode/tree/master/0224-basic-calculator) |
 | [0282-expression-add-operators](https://github.com/Rameshsain070/Leetcode/tree/master/0282-expression-add-operators) |
 | [0316-remove-duplicate-letters](https://github.com/Rameshsain070/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rameshsain070/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/Rameshsain070/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Rameshsain070/Leetcode/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/Rameshsain070/Leetcode/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/Rameshsain070/Leetcode/tree/master/0224-basic-calculator) |
 | [0282-expression-add-operators](https://github.com/Rameshsain070/Leetcode/tree/master/0282-expression-add-operators) |
 | [0486-predict-the-winner](https://github.com/Rameshsain070/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rameshsain070/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Rameshsain070/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rameshsain070/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Rameshsain070/Leetcode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/Rameshsain070/Leetcode/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/Rameshsain070/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/Rameshsain070/Leetcode/tree/master/0456-132-pattern) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rameshsain070/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -489,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/Rameshsain070/Leetcode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/Rameshsain070/Leetcode/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/Rameshsain070/Leetcode/tree/master/0224-basic-calculator) |
 | [0486-predict-the-winner](https://github.com/Rameshsain070/Leetcode/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/Rameshsain070/Leetcode/tree/master/1922-count-good-numbers) |
 ## Game Theory
