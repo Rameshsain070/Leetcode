@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0220-contains-duplicate-iii](https://github.com/Rameshsain070/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0221-maximal-square](https://github.com/Rameshsain070/Leetcode/tree/master/0221-maximal-square) |
+| [0228-summary-ranges](https://github.com/Rameshsain070/Leetcode/tree/master/0228-summary-ranges) |
 | [0456-132-pattern](https://github.com/Rameshsain070/Leetcode/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/Rameshsain070/Leetcode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Rameshsain070/Leetcode/tree/master/0560-subarray-sum-equals-k) |
