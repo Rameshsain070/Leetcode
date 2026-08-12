@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Rameshsain070/Leetcode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/Rameshsain070/Leetcode/tree/master/0221-maximal-square) |
+| [0233-number-of-digit-one](https://github.com/Rameshsain070/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/Rameshsain070/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rameshsain070/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Rameshsain070/Leetcode/tree/master/1140-stone-game-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0223-rectangle-area](https://github.com/Rameshsain070/Leetcode/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Rameshsain070/Leetcode/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0233-number-of-digit-one](https://github.com/Rameshsain070/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0282-expression-add-operators](https://github.com/Rameshsain070/Leetcode/tree/master/0282-expression-add-operators) |
 | [0486-predict-the-winner](https://github.com/Rameshsain070/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rameshsain070/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -515,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Rameshsain070/Leetcode/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/Rameshsain070/Leetcode/tree/master/0143-reorder-list) |
 | [0224-basic-calculator](https://github.com/Rameshsain070/Leetcode/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/Rameshsain070/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/Rameshsain070/Leetcode/tree/master/0486-predict-the-winner) |
 | [1922-count-good-numbers](https://github.com/Rameshsain070/Leetcode/tree/master/1922-count-good-numbers) |
 ## Game Theory
