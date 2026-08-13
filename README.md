@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Rameshsain070/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Rameshsain070/Leetcode/tree/master/0260-single-number-iii) |
+| [0274-h-index](https://github.com/Rameshsain070/Leetcode/tree/master/0274-h-index) |
 | [0456-132-pattern](https://github.com/Rameshsain070/Leetcode/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/Rameshsain070/Leetcode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Rameshsain070/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0218-the-skyline-problem](https://github.com/Rameshsain070/Leetcode/tree/master/0218-the-skyline-problem) |
 | [0220-contains-duplicate-iii](https://github.com/Rameshsain070/Leetcode/tree/master/0220-contains-duplicate-iii) |
 | [0229-majority-element-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0229-majority-element-ii) |
+| [0274-h-index](https://github.com/Rameshsain070/Leetcode/tree/master/0274-h-index) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rameshsain070/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Rameshsain070/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Rameshsain070/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Rameshsain070/Leetcode/tree/master/0274-h-index) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Rameshsain070/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Recursion
 |  |
