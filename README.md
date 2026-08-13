@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Rameshsain070/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0260-single-number-iii](https://github.com/Rameshsain070/Leetcode/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/Rameshsain070/Leetcode/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0275-h-index-ii) |
 | [0456-132-pattern](https://github.com/Rameshsain070/Leetcode/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/Rameshsain070/Leetcode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Rameshsain070/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rameshsain070/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Rameshsain070/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Rameshsain070/Leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0275-h-index-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0275-h-index-ii) |
 | [0456-132-pattern](https://github.com/Rameshsain070/Leetcode/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/Rameshsain070/Leetcode/tree/master/0704-binary-search) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Rameshsain070/Leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
