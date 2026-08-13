@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0233-number-of-digit-one](https://github.com/Rameshsain070/Leetcode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rameshsain070/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0258-add-digits](https://github.com/Rameshsain070/Leetcode/tree/master/0258-add-digits) |
 | [0282-expression-add-operators](https://github.com/Rameshsain070/Leetcode/tree/master/0282-expression-add-operators) |
 | [0486-predict-the-winner](https://github.com/Rameshsain070/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rameshsain070/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Rameshsain070/Leetcode/tree/master/0258-add-digits) |
 | [1260-shift-2d-grid](https://github.com/Rameshsain070/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1518-water-bottles](https://github.com/Rameshsain070/Leetcode/tree/master/1518-water-bottles) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Rameshsain070/Leetcode/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Rameshsain070/Leetcode/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Rameshsain070/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Rameshsain070/Leetcode/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Rameshsain070/Leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
