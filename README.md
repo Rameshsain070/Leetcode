@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0264-ugly-number-ii) |
 | [0290-word-pattern](https://github.com/Rameshsain070/Leetcode/tree/master/0290-word-pattern) |
+| [0299-bulls-and-cows](https://github.com/Rameshsain070/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rameshsain070/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Rameshsain070/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Rameshsain070/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/Rameshsain070/Leetcode/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/Rameshsain070/Leetcode/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rameshsain070/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0299-bulls-and-cows](https://github.com/Rameshsain070/Leetcode/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/Rameshsain070/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rameshsain070/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rameshsain070/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/Rameshsain070/Leetcode/tree/master/0299-bulls-and-cows) |
 | [1189-maximum-number-of-balloons](https://github.com/Rameshsain070/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [2029-stone-game-ix](https://github.com/Rameshsain070/Leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Rameshsain070/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
