@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Rameshsain070/Leetcode/tree/master/0260-single-number-iii) |
 | [0274-h-index](https://github.com/Rameshsain070/Leetcode/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0275-h-index-ii) |
+| [0284-peeking-iterator](https://github.com/Rameshsain070/Leetcode/tree/master/0284-peeking-iterator) |
 | [0456-132-pattern](https://github.com/Rameshsain070/Leetcode/tree/master/0456-132-pattern) |
 | [0486-predict-the-winner](https://github.com/Rameshsain070/Leetcode/tree/master/0486-predict-the-winner) |
 | [0560-subarray-sum-equals-k](https://github.com/Rameshsain070/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Rameshsain070/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/Rameshsain070/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rameshsain070/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0284-peeking-iterator](https://github.com/Rameshsain070/Leetcode/tree/master/0284-peeking-iterator) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -776,4 +778,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Rameshsain070/Leetcode/tree/master/0279-perfect-squares) |
+## Iterator
+|  |
+| ------- |
+| [0284-peeking-iterator](https://github.com/Rameshsain070/Leetcode/tree/master/0284-peeking-iterator) |
 <!---LeetCode Topics End-->
