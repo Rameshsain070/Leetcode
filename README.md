@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/Rameshsain070/Leetcode/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/Rameshsain070/Leetcode/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/Rameshsain070/Leetcode/tree/master/0282-expression-add-operators) |
+| [0292-nim-game](https://github.com/Rameshsain070/Leetcode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Rameshsain070/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rameshsain070/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Rameshsain070/Leetcode/tree/master/0877-stone-game) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Rameshsain070/Leetcode/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/Rameshsain070/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Rameshsain070/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Rameshsain070/Leetcode/tree/master/1140-stone-game-ii) |
@@ -694,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Rameshsain070/Leetcode/tree/master/0292-nim-game) |
 | [1140-stone-game-ii](https://github.com/Rameshsain070/Leetcode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Rameshsain070/Leetcode/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/Rameshsain070/Leetcode/tree/master/2029-stone-game-ix) |
@@ -725,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Nim Game
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/Rameshsain070/Leetcode/tree/master/0292-nim-game) |
 | [1510-stone-game-iv](https://github.com/Rameshsain070/Leetcode/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/Rameshsain070/Leetcode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
@@ -793,4 +797,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/Rameshsain070/Leetcode/tree/master/0284-peeking-iterator) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Rameshsain070/Leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Rameshsain070/Leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
