@@ -674,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Rameshsain070/Leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Rameshsain070/Leetcode/tree/master/0148-sort-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Rameshsain070/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Rameshsain070/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Binary Search Tree
 |  |
 | ------- |
