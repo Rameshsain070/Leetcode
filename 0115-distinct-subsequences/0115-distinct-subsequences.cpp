@@ -1,17 +1,23 @@
 class Solution {
 public:
-    int numDistinct(string s, string t) {
-        int n1=s.size();
-        int n2=t.size();
-        vector<double> prev(n2+1,0);
-        prev[0]=1;
-        for(int i=1;i<n1+1;i++){
-            for(int j=n2;j>=1;j--){
-                if(s[i-1]==t[j-1]){
-                    prev[j]=prev[j-1]+prev[j];
-                }
-            }
+    int solve(string &s , string &t, int i , int j,vector<vector<int>> &dp){
+        if(j == t.length()) return 1;
+        if(i == s.length()) return 0;
+
+        if(dp[i][j] != -1){
+            return dp[i][j];
         }
-        return int(prev[n2]);
+
+        if(s[i] == t[j]){
+            int take = solve(s,t,i+1,j+1,dp);
+            int skip = solve(s,t,i+1,j,dp);
+            return dp[i][j] = take + skip;
+        }
+
+        return dp[i][j] = solve(s,t,i+1,j,dp);
+    }
+    int numDistinct(string s, string t) {
+        vector<vector<int>> dp(s.length(),vector<int>(t.length(),-1));
+        return solve(s,t,0,0,dp);
     }
 };
