@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Rameshsain070/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rameshsain070/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Rameshsain070/Leetcode/tree/master/0704-binary-search) |
+| [0835-image-overlap](https://github.com/Rameshsain070/Leetcode/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/Rameshsain070/Leetcode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/Rameshsain070/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1140-stone-game-ii](https://github.com/Rameshsain070/Leetcode/tree/master/1140-stone-game-ii) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/Rameshsain070/Leetcode/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/Rameshsain070/Leetcode/tree/master/0289-game-of-life) |
+| [0835-image-overlap](https://github.com/Rameshsain070/Leetcode/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Rameshsain070/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Rameshsain070/Leetcode/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rameshsain070/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
