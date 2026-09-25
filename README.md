@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Rameshsain070/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Rameshsain070/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Rameshsain070/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [1096-brace-expansion-ii](https://github.com/Rameshsain070/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Rameshsain070/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Rameshsain070/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rameshsain070/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Rameshsain070/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-distinct-subsequences-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rameshsain070/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Rameshsain070/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/Rameshsain070/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rameshsain070/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rameshsain070/Leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Rameshsain070/Leetcode/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Rameshsain070/Leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Rameshsain070/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/Rameshsain070/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/Rameshsain070/Leetcode/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Rameshsain070/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Rameshsain070/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Rameshsain070/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/Rameshsain070/Leetcode/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Rameshsain070/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/Rameshsain070/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Rameshsain070/Leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rameshsain070/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Rameshsain070/Leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -664,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Rameshsain070/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0456-132-pattern](https://github.com/Rameshsain070/Leetcode/tree/master/0456-132-pattern) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Rameshsain070/Leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/Rameshsain070/Leetcode/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -711,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/Rameshsain070/Leetcode/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/Rameshsain070/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/Rameshsain070/Leetcode/tree/master/0282-expression-add-operators) |
+| [1096-brace-expansion-ii](https://github.com/Rameshsain070/Leetcode/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Rameshsain070/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Range Minimum/Maximum Query
 |  |
